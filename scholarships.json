@@ -1,0 +1,124 @@
+{
+  "scholarships": [
+    {
+      "name": "Chevening Scholarship",
+      "country": "United Kingdom",
+      "funded_by": "UK Government",
+      "degree": "Masters",
+      "eligibility": {
+        "min_experience_years": 2,
+        "min_gpa": 3.0,
+        "english_requirement": "IELTS 6.5",
+        "nationality": "Pakistani"
+      },
+      "deadline": "November",
+      "benefits": "Full tuition, living allowance, flights",
+      "link": "https://www.chevening.org"
+    },
+    {
+      "name": "Fulbright Scholarship",
+      "country": "United States",
+      "funded_by": "US Government",
+      "degree": "Masters or PhD",
+      "eligibility": {
+        "min_experience_years": 2,
+        "min_gpa": 3.0,
+        "english_requirement": "TOEFL 80 or IELTS 6.5",
+        "nationality": "Pakistani"
+      },
+      "deadline": "December",
+      "benefits": "Full tuition, living stipend, health insurance, flights",
+      "link": "https://www.usefpak.org"
+    },
+    {
+      "name": "DAAD Scholarship",
+      "country": "Germany",
+      "funded_by": "German Government",
+      "degree": "Masters or PhD",
+      "eligibility": {
+        "min_experience_years": 1,
+        "min_gpa": 2.5,
+        "english_requirement": "IELTS 6.0 or German B2",
+        "nationality": "Pakistani"
+      },
+      "deadline": "October",
+      "benefits": "Monthly stipend, tuition waiver, health insurance",
+      "link": "https://www.daad.de"
+    },
+    {
+      "name": "Turkish Government Scholarship",
+      "country": "Turkey",
+      "funded_by": "Turkish Government",
+      "degree": "Bachelors, Masters or PhD",
+      "eligibility": {
+        "min_experience_years": 0,
+        "min_gpa": 2.5,
+        "english_requirement": "IELTS 5.5 or Turkish B1",
+        "nationality": "Pakistani"
+      },
+      "deadline": "February",
+      "benefits": "Full tuition, accommodation, monthly stipend, flights",
+      "link": "https://www.turkiyeburslari.gov.tr"
+    },
+    {
+      "name": "MEXT Scholarship",
+      "country": "Japan",
+      "funded_by": "Japanese Government",
+      "degree": "Masters or PhD",
+      "eligibility": {
+        "min_experience_years": 0,
+        "min_gpa": 3.0,
+        "english_requirement": "IELTS 5.5",
+        "nationality": "Pakistani"
+      },
+      "deadline": "May",
+      "benefits": "Full tuition, monthly stipend, flights",
+      "link": "https://www.studyinjapan.go.jp"
+    },
+    {
+      "name": "Korean Government Scholarship (KGSP)",
+      "country": "South Korea",
+      "funded_by": "Korean Government",
+      "degree": "Masters or PhD",
+      "eligibility": {
+        "min_experience_years": 0,
+        "min_gpa": 2.64,
+        "english_requirement": "TOPIK 3 or IELTS 5.5",
+        "nationality": "Pakistani"
+      },
+      "deadline": "September",
+      "benefits": "Full tuition, monthly allowance, flights, Korean language training",
+      "link": "https://www.studyinkorea.go.kr"
+    },
+    {
+      "name": "Erasmus Mundus",
+      "country": "Europe",
+      "funded_by": "European Union",
+      "degree": "Masters",
+      "eligibility": {
+        "min_experience_years": 0,
+        "min_gpa": 3.0,
+        "english_requirement": "IELTS 6.5",
+        "nationality": "Pakistani"
+      },
+      "deadline": "January",
+      "benefits": "Full tuition, monthly stipend, travel allowance",
+      "link": "https://www.eacea.ec.europa.eu"
+    },
+    {
+      "name": "Australian Awards Scholarship",
+      "country": "Australia",
+      "funded_by": "Australian Government",
+      "degree": "Masters",
+      "eligibility": {
+        "min_experience_years": 2,
+        "min_gpa": 2.5,
+        "english_requirement": "IELTS 6.5",
+        "nationality": "Pakistani"
+      },
+      "deadline": "April",
+      "benefits": "Full tuition, living allowance, flights, health cover",
+      "link": "https://www.australiaawards.gov.au"
+    }
+  ]
+}
